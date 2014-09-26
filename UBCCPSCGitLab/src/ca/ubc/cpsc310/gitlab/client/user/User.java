@@ -43,7 +43,10 @@ public class User implements IUser {
 	@Override
 	public String getName() {
 
-		return name;
+	// meger conflict
+		String n = new String();
+		n = "conflict";
+		return n;
 
 	}
 
