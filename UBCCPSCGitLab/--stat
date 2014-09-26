@@ -1,0 +1,83 @@
+[33mcommit 997e7e91cdf23a9654abb787d5d87fe61cb8a65d[m
+Merge: 40e1e76 119c134
+Author: Wayne <wayne.ku@hotmail.com>
+Date:   Fri Sep 26 00:16:53 2014 -0700
+
+    Merge branch 'async'
+    
+    Conflicts:
+    	src/ca/ubc/cpsc310/gitlab/client/GitLab.java
+    	src/ca/ubc/cpsc310/gitlab/client/user/User.java
+
+[33mcommit 40e1e76e1a0fca05b93e95b73ffbe354749544be[m
+Merge: 0830479 fa379b9
+Author: Wayne <wayne.ku@hotmail.com>
+Date:   Thu Sep 25 22:52:25 2014 -0700
+
+    Merge branch 'ui'
+
+[33mcommit 0830479afea52ae9a15bb75b56e56b9fefa431df[m
+Author: Steve Ramage <seramage@cs.ubc.ca>
+Date:   Sun Jan 6 19:34:10 2013 -0800
+
+    Changed Title of the page
+
+[33mcommit 119c13436f8520cb7b729aa9dd6ba6e96285ea4d[m
+Author: Steve Ramage <seramage@cs.ubc.ca>
+Date:   Sun Jan 6 19:18:35 2013 -0800
+
+    Implemented the IUser Interface and implemented parsing on the server
+
+[33mcommit fa379b94707daf00430b3e7513ce96635dd7c8bc[m
+Author: Steve Ramage <seramage@cs.ubc.ca>
+Date:   Sat Jan 12 14:40:17 2013 -0800
+
+    Added gitignore
+
+[33mcommit 0fbf8460fe8e642ea0f8812be094073f6bab74f5[m
+Author: Steve Ramage <seramage@cs.ubc.ca>
+Date:   Sun Jan 6 19:30:57 2013 -0800
+
+    Refactored GitLab.java to move display logic into it's own method
+
+[33mcommit 5a2a5d8845bb4f84ac9ac338c7986a68c7900758[m
+Author: Steve Ramage <seramage@cs.ubc.ca>
+Date:   Sun Jan 6 19:28:42 2013 -0800
+
+    Initial implementation of the User class and the User Interface
+
+[33mcommit 4526a33016978210c16324fbeeceecaed38718af[m
+Author: Steve Ramage <seramage@cs.ubc.ca>
+Date:   Sun Jan 6 19:14:29 2013 -0800
+
+    Initial Service Implementation for loading users
+
+[33mcommit a37fc48ff0d4a8ea53a6c881b8f3ad109309a53c[m
+Author: Steve Ramage <seramage@cs.ubc.ca>
+Date:   Sun Jan 6 19:04:18 2013 -0800
+
+    Created ProductItem class and IUser interface
+
+[33mcommit 4dcfeba377c696434748f14870c936059c33e09e[m
+Author: Steve Ramage <seramage@cs.ubc.ca>
+Date:   Sun Jan 6 18:58:55 2013 -0800
+
+    Cleaned up a bunch of old files from the tutorial
+
+[33mcommit 034da68cd5132d3668c19528d382756307b954eb[m
+Author: Steve Ramage <seramage@cs.ubc.ca>
+Date:   Sun Jan 6 18:55:29 2013 -0800
+
+    Modified CSS & HTML file, added some images
+
+[33mcommit 29dc7041cb19213201fe0702abbb8f90e1d5384f[m
+Author: Steve Ramage <seramage@cs.ubc.ca>
+Date:   Sun Jan 6 18:47:12 2013 -0800
+
+    Added dummy data for testing
+
+[33mcommit 24056f53c7c377cd9d6a605aa6164ae1b4776322[m
+Author: Steve Ramage <seramage@cs.ubc.ca>
+Date:   Sun Jan 6 18:45:47 2013 -0800
+
+    Initial Import of Project
