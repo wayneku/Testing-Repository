@@ -43,7 +43,11 @@ public class User implements IUser {
 	@Override
 	public String getName() {
 
-		return name;
+	// Erronious: Set up to Merge
+		
+		String n = new String();
+		n = "name";
+		return n;
 
 	}
 
